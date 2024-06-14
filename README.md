@@ -1,2 +1,2 @@
 # Code-in-place
-Finance Tracker Project for code in place
+Finance Tracker Project for Code In Place
