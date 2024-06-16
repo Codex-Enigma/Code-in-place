@@ -1,4 +1,4 @@
-# Code-in-place
+# Finance Tracker 
 This is a simple finance tracker script written in Python. It allows you to add, edit, delete, and view financial transactions. You can also generate and visualize monthly and category summaries.
 
 ## Features
